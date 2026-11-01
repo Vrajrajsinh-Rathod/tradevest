@@ -152,7 +152,7 @@ tradevest/
 
 ### 1 — Clone the repo
 ```bash
-git clone https://github.com/vshah2690/tradevest.git
+git clone https://github.com/Vrajrajsinh-Rathod/tradevest.git
 cd tradevest
 ```
 
